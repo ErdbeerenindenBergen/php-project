@@ -50,7 +50,6 @@
     }
   }
 
-
   if ($uploadIsSuccessful == true) {
     //sending confirmation email
     $to = "emailAddress@googlemail.com";

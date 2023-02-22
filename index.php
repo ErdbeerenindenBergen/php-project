@@ -21,13 +21,13 @@
         <input class="menu-btn" type="checkbox" id="menu-btn" />
         <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
 
-            <ul id='nav' class="menu nav-menu">
-                <li><a>ABOUT</a></li>
-                <li><a>SERVICES</a></li>
-                <li><a>INFO</a></li>
-                <li><a>FAQ</a></li>
-                <li><a>CONTACT</a></li>
-            </ul>
+        <ul id='nav' class="menu nav-menu">
+            <li><a>CONTACT</a></li>
+            <li><a>FAQ</a></li>
+            <li><a>INFO</a></li>
+            <li><a>SERVICES</a></li>
+            <li><a>ABOUT</a></li>
+        </ul>
     </header>
 
     <section class="section-below-header font-family">
