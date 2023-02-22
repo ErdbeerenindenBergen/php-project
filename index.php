@@ -80,9 +80,10 @@
 
     </footer>
 
-    <button onclick="showNewBlock()">Show new block</button>
+    <button class="duplicate-block-button" onclick="showNewBlock()">Show new block</button>
 
     <form class="upload-form" action="upload.php" method="POST" enctype="multipart/form-data">
+        <h2 class="upload-form-heading">PHP File Upload Challenge</h2>
         Select file to upload:
         <input class="file-box" type="file" name="fileToUpload" id="fileToUpload">
         <br /><br />
